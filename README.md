@@ -7,7 +7,7 @@ Mock system design interviews powered by Gemini AI. Get grilled by a senior engi
 - Conversational AI interviewer that pushes back on vague answers
 - Live whiteboard that auto-generates as you describe components
 - Final scorecard across 5 dimensions: Requirements, Scalability, Reliability, Tech Choices, Communication
-- 8 built-in topics + custom topic input
+- 8 built-in topics + custom topic input 
 
 ## Topics
 

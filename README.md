@@ -29,6 +29,8 @@ npm install
 npm run dev
 ```
 
+
+
 Enter your Gemini API key in the app (stored in localStorage, never sent anywhere except Google).
 
 Get a free key at [aistudio.google.com](https://aistudio.google.com/app/apikey).

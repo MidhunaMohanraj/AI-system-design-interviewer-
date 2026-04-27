@@ -1,7 +1,7 @@
 # AI System Design Interviewer
 
 Mock system design interviews powered by Gemini AI. Get grilled by a senior engineer, watch your architecture diagram auto-draw, and receive a scorecard at the end.
-
+   
 ## Features
 
 - Conversational AI interviewer that pushes back on vague answers

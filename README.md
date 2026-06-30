@@ -16,7 +16,7 @@ Design Twitter, YouTube, Uber, URL shortener, WhatsApp, Google Drive, rate limit
 ## Stack
 
 - React + Vite
-- Gemini 1.5 Flash (free tier)
+- Gemini 1.5 Flash (free tier)  
 - SVG canvas for whiteboard
 - No backend required
 
